@@ -63,4 +63,4 @@ spec:
   ports:
   - protocol: TCP
     port: 5000
-    targetPort: 5000mlflow.yaml
+    targetPort: 5000
